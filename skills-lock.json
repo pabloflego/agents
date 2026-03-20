@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "jj-commit": {
+      "source": "local/manual",
+      "sourceType": "manual",
+      "computedHash": "aa60665b0b1f860e7ed2f238ba0cbe25c310d30835dfe715be76cc0d986641f3"
+    }
+  }
+}
