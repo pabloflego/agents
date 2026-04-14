@@ -10,4 +10,4 @@ Minimal Open Agent repo scaffold.
 ## Notes
 
 - First skill included: `jj-commit`
-- Long-term install flow: `npx skills add <owner/repo> --skill <skill-name>`
+- Long-term install flow: `npx skills add pabloflego/agents --skill <skill-name>`
